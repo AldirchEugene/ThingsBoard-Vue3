@@ -1,4 +1,4 @@
-# HikariThings-ce-aider
+# HikariThings
 基于ThingsBoard实现的vue3项目，目前国内写的最好的ThingsBoard前端，灵活、可快速自定义自己的功能。
 
 # 访问地址：
