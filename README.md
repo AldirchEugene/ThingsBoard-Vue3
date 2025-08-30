@@ -1,4 +1,4 @@
-<img width="2555" height="1238" alt="image" src="https://github.com/user-attachments/assets/0bbb32b0-5cca-45fe-aa05-bd089661cca8" /># HikariThings-ce-aider
+# HikariThings-ce-aider
 基于ThingsBoard实现的vue3项目，目前国内写的最好的ThingsBoard前端，灵活、可快速自定义自己的功能。
 
 # 访问地址：
