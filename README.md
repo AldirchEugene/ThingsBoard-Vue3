@@ -30,7 +30,7 @@
 ### 5、增加资产组和设备组，实现数据权限。
 
 # ThingsBoard课程
-### 全网最好的ThingsBoard课程：
+### 全网最好的ThingsBoard课程，带你快速掌握ThingsBoard应用于物联网：
 ### B站链接： https://www.bilibili.com/cheese/play/ss15829?bsource=link_copy
 ### csdn链接：https://edu.csdn.net/course/detail/39041
 
